@@ -311,7 +311,7 @@ html, body, input, a, a:visited, a:link, a:active {
 			}
 			#foto {
 				height: 150px; /* Ajuste de altura para que se vea la imagen */
-				background: url('fotico.png') no-repeat center center / cover #222;
+				background: url('Captura de pantalla 2024-11-08 123302.png') no-repeat center center / cover #222;
 				box-shadow: 0 0 3px black inset;
 				width: 150px;
 				margin: 0 auto; /* Centrará el elemento horizontalmente */
