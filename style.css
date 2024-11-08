@@ -309,12 +309,13 @@ html, body, input, a, a:visited, a:link, a:active {
 				left: -450px;
 				position: absolute;
 			}
-			#foto { 
-				height: 0;
-				background: url('Captura de pantalla 2024-11-08 123302.png') no-repeat scroll left top #222;
+			#foto {
+				height: 150px; /* Ajuste de altura para que se vea la imagen */
+				background: url('fotico.png') no-repeat center center / cover #222;
 				box-shadow: 0 0 3px black inset;
-				width: 100%;
-                                heigth: 100%
+				width: 150px;
+				margin: 0 auto; /* Centrará el elemento horizontalmente */
+				right: 0; /* Elimina el desplazamiento hacia la derecha */
 			}
 			#cursorimagen {
 				height: 1px;
