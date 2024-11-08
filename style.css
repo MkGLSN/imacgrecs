@@ -313,7 +313,8 @@ html, body, input, a, a:visited, a:link, a:active {
 				height: 0;
 				background: url('Captura de pantalla 2024-11-08 123302.png') no-repeat scroll left top #222;
 				box-shadow: 0 0 3px black inset;
-				width: 150px;
+				width: 100%;
+                                heigth: 100%
 			}
 			#cursorimagen {
 				height: 1px;
